@@ -7,4 +7,5 @@ I Try to combine many concepts in one app it has star logo + SQlite crud so i th
 If You have other ideas you can connrect with me. I would like to have feedback on my app/
 
 Demo Video: 
+
 https://github.com/user-attachments/assets/7c7f77f2-b453-4fb3-b058-5fb8dad25056
